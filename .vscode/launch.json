@@ -2,6 +2,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Break_Continue",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Tuan1_Code2.Break_Continue",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Switch",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Tuan1_Code2.Switch",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "For_Each",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Tuan1_Code2.For_Each",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "While_Loop",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Tuan1_Code2.While_Loop",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "If_Else",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Tuan1_Code2.If_Else",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Launch App",
             "request": "launch",
             "cwd": "${workspaceFolder}",
