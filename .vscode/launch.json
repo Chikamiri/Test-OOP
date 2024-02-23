@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ex4",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Exercise.Ex4",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Ex3",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Exercise.Ex3",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Ex2",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Exercise.Ex2",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Ex1",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Exercise.Ex1",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Break_Continue",
             "request": "launch",
             "mainClass": "com.mycompany.app.Tuan1_Code2.Break_Continue",
