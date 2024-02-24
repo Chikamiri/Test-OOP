@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ex5",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Exercise.Ex5",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Ex4",
             "request": "launch",
             "mainClass": "com.mycompany.app.Exercise.Ex4",
