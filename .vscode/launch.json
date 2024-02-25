@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Exercise.Main",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Ex8",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Exercise.Ex8",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Ex9",
             "request": "launch",
             "mainClass": "com.mycompany.app.Exercise.Ex9",
