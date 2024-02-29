@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Time",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Tuan2_Code1.Time",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Book",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Tuan2_Code1.Book",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Launch External Terminal",
+            "request": "launch",
+            "console": "integratedTerminal",
+            "mainClass": ""
+        },
+        {
+            "type": "java",
             "name": "Ex10",
             "request": "launch",
             "mainClass": "com.mycompany.app.Exercise.Ex10",
