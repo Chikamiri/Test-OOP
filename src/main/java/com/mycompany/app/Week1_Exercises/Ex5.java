@@ -1,4 +1,4 @@
-package com.mycompany.app.Exercise;
+package com.mycompany.app.Week1_Exercises;
 //Not done yet!
 public class Ex5 {
     //Check Ex10 in previous chapter.

@@ -1,4 +1,4 @@
-package com.mycompany.app.Exercise;
+package com.mycompany.app.Week1_Exercises;
 
 public class Ex8 {
     public static void main(String[]args){

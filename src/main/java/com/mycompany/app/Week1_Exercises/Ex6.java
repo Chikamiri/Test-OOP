@@ -1,4 +1,4 @@
-package com.mycompany.app.Exercise;
+package com.mycompany.app.Week1_Exercises;
 //I know I can return values by using array, but I want to mess up a bit :P
 
 public class Ex6 {

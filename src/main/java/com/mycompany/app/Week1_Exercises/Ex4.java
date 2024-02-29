@@ -1,4 +1,4 @@
-package com.mycompany.app.Exercise;
+package com.mycompany.app.Week1_Exercises;
 import java.util.*;
 import java.lang.Math;
 

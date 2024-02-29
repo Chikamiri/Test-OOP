@@ -1,4 +1,4 @@
-package com.mycompany.app.Tuan2_Code1;
+package com.mycompany.app.Week2_Code;
 
 public class Time {
     int hour, minute, second;
