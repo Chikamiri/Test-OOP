@@ -1,4 +1,4 @@
-package com.mycompany.app.Tuan1_Code1;
+package com.mycompany.app.Week1_Code1;
 
 public class Assignment2 {
     public static void main(String[]args){

@@ -1,4 +1,4 @@
-package com.mycompany.app.Tuan1_Code1;
+package com.mycompany.app.Week1_Code1;
 
 public class PassObject {
     static void f(Number m){
