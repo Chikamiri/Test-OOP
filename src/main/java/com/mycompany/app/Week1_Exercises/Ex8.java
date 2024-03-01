@@ -1,7 +1,7 @@
 package com.mycompany.app.Week1_Exercises;
 
 public class Ex8 {
-    public static void main(String[]args){
+    public static void fuu8(){
         int i=1;
         switch (i){
             case 1:

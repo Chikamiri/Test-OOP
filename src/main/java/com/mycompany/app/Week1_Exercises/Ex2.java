@@ -3,7 +3,7 @@ package com.mycompany.app.Week1_Exercises;
 import java.util.Random;
 
 public class Ex2 {
-    public static void main(String[]args){
+    public static void fuu2(){
         for(int i=1; i<=25; i++){
             Random rand = new Random();
             int a = rand.nextInt(1000);

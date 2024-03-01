@@ -16,7 +16,7 @@ public class Ex4 {
         }
     }
 
-    public static void main(String[]args){
+    public static void fuu4(){
         Scanner PrimeNum = new Scanner(System.in);
         for(int i =1; i<100000; i++){   //Idk, random things.
             int num = PrimeNum.nextInt();

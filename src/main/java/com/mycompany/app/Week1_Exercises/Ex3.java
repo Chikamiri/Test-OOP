@@ -3,7 +3,7 @@ package com.mycompany.app.Week1_Exercises;
 import java.util.*;
 
 public class Ex3 {
-    public static void main(String[]args){
+    public static void fuu3(){
         Scanner Scanner = new Scanner(System.in);
         boolean stop = false;
 

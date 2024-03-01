@@ -17,7 +17,7 @@ public class Ex9{
         }
         return fn;
     }
-    public static void main(String[] args){
+    public static void fuu9(){
         Scanner temp = new Scanner(System.in);
         int n = temp.nextInt();
         

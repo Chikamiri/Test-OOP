@@ -42,7 +42,7 @@ public class Ex6 {
         else return 0;
     }*/
 
-    public static void main(String[]args){
+    public static void fuu6(){
         /* 
         System.out.println(test(10,5));
         System.out.println((test(5,10)));

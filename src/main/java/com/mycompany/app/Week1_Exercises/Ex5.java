@@ -35,7 +35,7 @@ public class Ex5 {
     }
 
 
-    public static void main(String[]args){
+    public void inter(){
         int a=0xAA;//10101010 a.k.a 170
         int b=0x55;//1010101 a.k.a 85
 
