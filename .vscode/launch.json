@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ex6",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week1_Exercises.Ex6",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Time",
             "request": "launch",
             "mainClass": "com.mycompany.app.Tuan2_Code1.Time",
