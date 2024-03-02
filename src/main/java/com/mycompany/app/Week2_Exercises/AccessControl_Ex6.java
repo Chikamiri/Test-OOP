@@ -18,6 +18,6 @@ public class AccessControl_Ex6{
         Second tempB = new Second();
 
         tempB.manipulate(tempA, 20);
+ 
     }
 }
-

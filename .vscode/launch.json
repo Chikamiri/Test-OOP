@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AccessControl_Ex8",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2_Exercises.AccessControl_Ex8",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "AccessControl_Ex6",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2_Exercises.AccessControl_Ex6",
