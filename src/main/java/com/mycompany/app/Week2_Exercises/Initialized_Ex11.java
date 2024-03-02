@@ -1,10 +1,14 @@
 package com.mycompany.app.Week2_Exercises;
 
-public class Initialized_Ex10 {
+public class Initialized_Ex11 {
     public static void main(String[] args) {
         Fin uwu=new Fin();
         uwu.temp((float)3.14);//Change default value
         new Fin();//nothing on output cuz default value not 0
+
+        //Need these codes to print Trash collector method "Finalize"
+        System.gc();//Collect trashhhh
+        System.runFinalization();//Finalization
     }
 }
 
