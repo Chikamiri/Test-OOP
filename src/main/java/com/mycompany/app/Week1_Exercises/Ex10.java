@@ -2,7 +2,7 @@ package com.mycompany.app.Week1_Exercises;
 import java.util.*;
 
 public class Ex10 {
-    public static void main(String[] args) {
+    public  void fuu10() {
         test(10,1800);
     }
 

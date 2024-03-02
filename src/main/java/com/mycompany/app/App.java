@@ -1,10 +1,10 @@
 package com.mycompany.app;
-import com.mycompany.app.Week1_Exercises.*;
+import com.mycompany.app.Week2_Code.*;
 
 public class App {
     public static void main(String[] args) {
-        Ex9 temp = new Ex9();
-        temp.fuu9();
+        Book temp = new Book();
+        temp.fuu01();
     
     }
 }
