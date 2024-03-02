@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AccessControl_Ex6",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2_Exercises.AccessControl_Ex6",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Ex6",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week1_Exercises.Ex6",
@@ -145,7 +152,7 @@
             "name": "Launch App",
             "request": "launch",
             "cwd": "${workspaceFolder}",
-            "console": "internalConsole",
+            "console": "integratedTerminal",
             "stopOnEntry": false,
             "mainClass": "com.mycompany.app.App",
             "args": "",

@@ -8,6 +8,11 @@ class App {
     public static void main(String[] args) {
         System.out.println("Hello Remote World!");
 
+        
+        /*Book.java
+        Book myObject=new Book("a","b",2);
+        System.out.println(myObject.title);
+        */
 
         /*Recursion.java
         Recursion temp = new Recursion();
