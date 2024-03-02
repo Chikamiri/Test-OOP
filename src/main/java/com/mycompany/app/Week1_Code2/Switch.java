@@ -1,7 +1,7 @@
 package com.mycompany.app.Week1_Code2;
 
 public class Switch {
-    public static void main(String[]args){
+    public void khanh4(){
         int month = 2;
         switch(month){
             case 1:case 3:case 5:case 7:
