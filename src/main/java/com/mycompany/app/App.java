@@ -1,11 +1,9 @@
-/*----------------------------------------------------------------------------------------
- * Copyright (c) Microsoft Corporation. All rights reserved.
- * Licensed under the MIT License. See LICENSE in the project root for license information.
- *---------------------------------------------------------------------------------------*/
-
 package com.mycompany.app;
-class App {
+import com.mycompany.app.Week1_Exercises.*;
+
+public class App {
     public static void main(String[] args) {
+<<<<<<< HEAD
         System.out.println("Hello Remote World!");
 
         
@@ -26,5 +24,10 @@ class App {
         temp.setsecond(45);
         System.out.println(temp.print());
         */
+=======
+        Ex9 temp = new Ex9();
+        temp.fuu9();
+    
+>>>>>>> 8d00a256f7e64ef91172fd0bdc961d49cf41010b
     }
 }
