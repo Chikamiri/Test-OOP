@@ -2,6 +2,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Initialized_Ex21",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2_Exercises.Initialized_Ex21",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Initialized_Ex20",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2_Exercises.Initialized_Ex20",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "temp",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2_Exercises.temp",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Initialized_Ex19",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2_Exercises.Initialized_Ex19",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Initialized_Ex18",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2_Exercises.Initialized_Ex18",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Initialized_Ex16",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2_Exercises.Initialized_Ex16",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Initialized_Ex15",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2_Exercises.Initialized_Ex15",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Initialized_Ex13",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2_Exercises.Initialized_Ex13",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Initialized_Ex12",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2_Exercises.Initialized_Ex12",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Initialized_Ex10",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2_Exercises.Initialized_Ex10",
