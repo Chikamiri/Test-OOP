@@ -2,9 +2,9 @@ package com.mycompany.app.Week2_Exercises;
 
 public class Initialized_Ex11 {
     public static void main(String[] args) {
-        Fin uwu=new Fin();
+        tempEx11 uwu=new tempEx11();
         uwu.temp((float)3.14);//Change default value
-        new Fin();//nothing on output cuz default value not 0
+        new tempEx11();//nothing on output cuz default value not 0
 
         //Need these codes to print Trash collector method "Finalize"
         System.gc();//Collect trashhhh
@@ -12,7 +12,7 @@ public class Initialized_Ex11 {
     }
 }
 
-class Fin{
+class tempEx11{
     int i=0;//Default
     public void temp(float a){
         i=i+(int)a;
