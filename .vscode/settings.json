@@ -1,4 +1,5 @@
 {
     "java.configuration.updateBuildConfiguration": "interactive",
-    "java.jdt.ls.java.home": ""
+    "java.jdt.ls.java.home": "",
+    "cmake.configureOnOpen": false
 }

@@ -10,9 +10,4 @@ public class Book {
         author=a;
         numPages=p;
     }
-
-    public static void main(String[]args){
-        Book myObject=new Book("a","b",2);
-        System.out.println(myObject.title);
-    }
 }
