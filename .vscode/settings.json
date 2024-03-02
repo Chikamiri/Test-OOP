@@ -1,5 +1,6 @@
 {
     "java.configuration.updateBuildConfiguration": "interactive",
     "java.jdt.ls.java.home": "",
-    "cmake.configureOnOpen": false
+    "cmake.configureOnOpen": false,
+    "java.debug.settings.onBuildFailureProceed": true
 }
