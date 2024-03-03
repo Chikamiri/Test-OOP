@@ -4,7 +4,7 @@ public class PassObject {
     static void f(Number m){
         m.i=15;
     }
-    public static void main(String[]args){
+    public void dk3(){
         Number n = new Number();
         n.i = 14;
         f(n);

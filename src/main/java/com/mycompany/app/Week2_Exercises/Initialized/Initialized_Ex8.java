@@ -11,7 +11,7 @@ class TotallyNot_aBadCompany{
     }
 }
 public class Initialized_Ex8{
-    public static void main(String[] args) {
+    public void yuu8() {
         TotallyNot_aBadCompany sus=new TotallyNot_aBadCompany();
         sus.EA();
         sus.Konami();

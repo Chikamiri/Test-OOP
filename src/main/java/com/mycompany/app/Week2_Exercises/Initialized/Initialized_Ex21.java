@@ -4,7 +4,7 @@ public class Initialized_Ex21 {
     public enum Mood{
         happy, sad, angry, motivated, cunny
     }
-    public static void main(String[] args) {
+    public void yuu21() {
         for(Mood temp:Mood.values()){
             System.out.println("Status: "+temp+
                 ", ordinal: "+temp.ordinal());

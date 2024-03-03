@@ -1,7 +1,7 @@
 package com.mycompany.app.Week2_Exercises.Initialized;
 
 public class Initialized_Ex7 {
-    public static void main(String[] args) {
+    public void yuu7() {
         E a=new E();
         System.out.println(a.e);
     }

@@ -1,7 +1,7 @@
 package com.mycompany.app.Week2_Exercises.Initialized;
 
 public class Initialized_Ex12 {
-    public static void main(String[] args) {
+    public void yuu12() {
         Tank BIG=new Tank();
         System.out.println("Tank filled? "+BIG.filled);
     

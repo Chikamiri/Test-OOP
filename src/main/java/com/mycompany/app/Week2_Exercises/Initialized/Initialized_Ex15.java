@@ -1,7 +1,7 @@
 package com.mycompany.app.Week2_Exercises.Initialized;
 
 public class Initialized_Ex15 {
-    public static void main(String[] args) {
+    public void yuu15() {
         new Gimpact();
     }
 }

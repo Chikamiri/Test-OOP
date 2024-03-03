@@ -1,7 +1,7 @@
 package com.mycompany.app.Week2_Exercises.Initialized;
 
 public class Initialized_Ex9 {
-    public static void main(String[] args) {
+    public void yuu9() {
         new EA("EEEEE", 3.14);
 		new EA(4, true);
     }

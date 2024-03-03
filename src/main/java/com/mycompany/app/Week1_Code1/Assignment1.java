@@ -1,7 +1,7 @@
 package com.mycompany.app.Week1_Code1;
 
 public class Assignment1 {
-    public static void main(String[] args){
+    public void dk1(){
         Number n1 = new Number();
         Number n2 = new Number();
         

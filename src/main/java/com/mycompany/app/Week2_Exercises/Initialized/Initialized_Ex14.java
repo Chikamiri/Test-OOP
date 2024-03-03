@@ -1,7 +1,7 @@
 package com.mycompany.app.Week2_Exercises.Initialized;
 
 public class Initialized_Ex14 {
-    public static void main(String[] args) {
+    public void yuu14 () {
         Help.invasion();
         //So, variables must be initialized 
             //before they are used.

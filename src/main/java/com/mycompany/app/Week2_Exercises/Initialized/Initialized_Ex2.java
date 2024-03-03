@@ -1,7 +1,7 @@
 package com.mycompany.app.Week2_Exercises.Initialized;
 
 public class Initialized_Ex2 {
-    public static void main(String[] args) {
+    public void yuu2() {
         t E=new t("completely random text");
         //text to b, nothing for a
         System.out.println(E.a);

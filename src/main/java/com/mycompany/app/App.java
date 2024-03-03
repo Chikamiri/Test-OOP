@@ -1,10 +1,10 @@
 package com.mycompany.app;
-import com.mycompany.app.Week1_Code2.*;
+import com.mycompany.app.Week2_Exercises.Initialized.*;
 
 public class App {
-    public static void main(String[] args) {
-        While_For_Loop temp = new While_For_Loop();
-        temp.khanh5();
+    public static void main(String[] args) { 
+        Initialized_Ex21 temp = new Initialized_Ex21();
+        temp.yuu21();
 
         /*Book.java
         Book myObject=new Book("a","b",2);

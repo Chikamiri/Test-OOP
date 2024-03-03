@@ -1,7 +1,7 @@
 package com.mycompany.app.Week2_Exercises.Initialized;
 
 public class Initialized_Ex10 {
-    public static void main(String[] args) {
+    public void yuu10() {
         Fin uwu=new Fin();
         uwu.tempEx10((float)3.14);//Change default value
         new Fin();//nothing on output cuz default value not 0

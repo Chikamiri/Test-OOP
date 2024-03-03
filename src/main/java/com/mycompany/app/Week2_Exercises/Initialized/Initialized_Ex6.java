@@ -2,7 +2,7 @@ package com.mycompany.app.Week2_Exercises.Initialized;
 
 public class Initialized_Ex6 {
     @SuppressWarnings("unused")
-    public static void main(String[] args) {
+    public void yuu6() {
         Doggo human=new Doggo(3, 6.9);
         Doggo magic=new Doggo(3.5,2);
     }

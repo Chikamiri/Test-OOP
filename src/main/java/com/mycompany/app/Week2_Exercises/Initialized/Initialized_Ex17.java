@@ -1,7 +1,7 @@
 package com.mycompany.app.Week2_Exercises.Initialized;
 
 public class Initialized_Ex17 {
-    public static void main(String[] args) {
+    public void yuu17() {
         @SuppressWarnings("unused")
         Monke[] E=new Monke[5];
         //ofc nothing is printed :pog:

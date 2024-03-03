@@ -1,7 +1,7 @@
 package com.mycompany.app.Week2_Exercises.Initialized;
 
 public class Initialized_Ex13 {
-    public static void main(String[] args) {
+    public void yuu13() {
         System.out.println("Inside main");
         
         //Cups.cup1.f(99);

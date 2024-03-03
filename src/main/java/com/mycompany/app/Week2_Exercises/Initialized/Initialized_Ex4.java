@@ -2,7 +2,7 @@ package com.mycompany.app.Week2_Exercises.Initialized;
 
 public class Initialized_Ex4 {
     @SuppressWarnings("unused")
-    public static void main(String[] args) {
+    public void yuu4() {
         temp2 E=new temp2();
         temp2 A=new temp2("ger");
     }

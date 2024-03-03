@@ -1,7 +1,7 @@
 package com.mycompany.app.Week2_Exercises.Initialized;
 
 public class Initialized_Ex19 {
-    public static void main(String[] args) {
+    public void yuu19 () {
         temp("a","b","eeeeeee");
         System.out.println();
         temp(new String[]{"Monke","WANTS","BANANAS!"});
