@@ -9,7 +9,7 @@ public class Reusing_Ex19 {
         textE19=val;
     }
 
-    public static void main(String[] args) {
+    public void kn19() {
         Reusing_Ex19 e19=new Reusing_Ex19();
         //! e19.text="somdosmdos";
         System.out.println(e19.textE19);

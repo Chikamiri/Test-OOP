@@ -1,7 +1,7 @@
 package com.mycompany.app.Week2_Exercises.Reusing;
 
 public class Reusing_Ex1 {
-    public static void main(String[] args) {
+    public void kn1() {
         food something=new food();
         drink somedrink=new drink();
         System.out.println("Eat "+something+ " and drink "+somedrink);

@@ -9,7 +9,7 @@ public class Reusing_Ex2 extends Detergent {
         append("Detergent.sterilize()");
     }
 
-    public static void main(String[] args) {
+    public void kn2() {
         Cleanser Vim=new Cleanser();
         Vim.apply();
         Vim.dilute();

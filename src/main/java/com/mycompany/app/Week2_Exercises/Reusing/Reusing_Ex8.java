@@ -16,7 +16,7 @@ class  B_Ex8 extends A_Ex8{
     }
 }
 public class Reusing_Ex8 {
-    public static void main(String[] args) {
+    public void kn8() {
 		new B_Ex8();
 		new B_Ex8(6);
 	}

@@ -19,7 +19,7 @@ class C_Ex7 extends A_Ex7{
 }
 
 public class Reusing_Ex7 {
-    public static void main(String[] args) {
+    public void kn7() {
 		new C_Ex7(69,96);
     }
 }

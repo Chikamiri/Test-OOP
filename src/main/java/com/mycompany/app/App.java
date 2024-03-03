@@ -1,10 +1,10 @@
 package com.mycompany.app;
-import com.mycompany.app.Week2_Exercises.Initialized.*;
+import com.mycompany.app.Week2_Exercises.Reusing.*;
 
 public class App {
     public static void main(String[] args) { 
-        Initialized_Ex21 temp = new Initialized_Ex21();
-        temp.yuu21();
+        Reusing_Ex23 temp = new Reusing_Ex23();
+        temp.kn23();
 
         /*Book.java
         Book myObject=new Book("a","b",2);

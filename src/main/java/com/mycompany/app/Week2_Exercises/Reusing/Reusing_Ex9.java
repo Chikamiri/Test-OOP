@@ -4,7 +4,7 @@ public class Reusing_Ex9 extends Root_Ex9 {
     public Reusing_Ex9(){
 		System.out.println("Re_E9");
 	}
-	public static void main(String[] args) {
+	public void kn9() {
 		new Reusing_Ex9();
 	}
 }

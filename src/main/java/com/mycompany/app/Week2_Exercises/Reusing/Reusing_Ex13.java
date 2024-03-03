@@ -4,7 +4,7 @@ public class Reusing_Ex13 extends MethodE13 {
     void e13(char c){
         System.out.println("I_e13("+c+")");
     }
-    public static void main(String[] args) {
+    public void kn13() {
         Reusing_Ex13 E13=new Reusing_Ex13();
         E13.e13();
         E13.e13(1);

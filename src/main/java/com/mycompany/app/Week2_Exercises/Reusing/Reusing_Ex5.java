@@ -15,7 +15,7 @@ class C_Ex5 extends A_Ex5{
 }
 
 public class Reusing_Ex5 {
-    public static void main(String[] args) {
+    public void kn5() {
 		new C_Ex5();
     }
 }

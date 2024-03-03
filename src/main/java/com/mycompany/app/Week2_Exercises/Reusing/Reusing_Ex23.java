@@ -1,7 +1,7 @@
 package com.mycompany.app.Week2_Exercises.Reusing;
 
 public class Reusing_Ex23 {
-    public static void main(String[] args) {
+    public void kn23() {
             e23.staticMethod();
             new e23();
         }

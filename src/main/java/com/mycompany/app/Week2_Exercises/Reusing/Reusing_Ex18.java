@@ -7,7 +7,7 @@ public class Reusing_Ex18 {
         this.ex18B=val;
     }
 
-    public static void main(String[] args) {
+    public void kn18() {
         System.out.println("static final:"+ex18A);
         
         Reusing_Ex18 in1_ex18=new Reusing_Ex18(2);

@@ -1,7 +1,7 @@
 package com.mycompany.app.Week2_Exercises.Reusing;
 
 public class Reusing_Ex16 {
-    public static void main(String[] args) {
+    public void kn16() {
         Frog pepe=new Frog();
         Amphibian better_pepe=(Amphibian) pepe;//Upcast
 

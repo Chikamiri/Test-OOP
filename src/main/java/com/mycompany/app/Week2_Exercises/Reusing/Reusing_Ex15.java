@@ -1,7 +1,7 @@
 package com.mycompany.app.Week2_Exercises.Reusing;
 //import [foreign folder].Email
 public class Reusing_Ex15 {
-    public static void main(String[] args) {
+    public static void kn15() {
         //Email John=new Email();
         Browser Chrome=new Browser();
         //John.addContact("Trump","Donald@totally-president.us")

@@ -4,7 +4,7 @@ public class Reusing_Ex4 extends Manga{
     public Reusing_Ex4(){
         System.out.println("Low rating exercise");
     }
-    public static void main(String[] args) {
+    public void kn4() {
         new Reusing_Ex4();
     }
 }

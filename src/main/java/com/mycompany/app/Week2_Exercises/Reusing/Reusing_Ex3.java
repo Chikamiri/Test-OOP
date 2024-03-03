@@ -2,7 +2,7 @@ package com.mycompany.app.Week2_Exercises.Reusing;
 
 public class Reusing_Ex3 {
     @SuppressWarnings("unused")
-    public static void main(String[] args) {
+    public void kn3() {
         Sassafras why=new Sassafras();
     }
 }

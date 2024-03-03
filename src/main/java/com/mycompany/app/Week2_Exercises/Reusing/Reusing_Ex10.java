@@ -5,7 +5,7 @@ public class Reusing_Ex10 extends Root_Ex10 {
         super(69);
 		System.out.println("Re_E10");
 	}
-	public static void main(String[] args) {
+	public void kn10() {
 		new Reusing_Ex10();
 	}
 }

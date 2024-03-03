@@ -9,7 +9,7 @@ public class Reusing_Ex12 extends Root_Ex12 {
 		super.disposeE12();
 	}
 
-	public static void main(String[] args) {
+	public void kn12() {
 		Reusing_Ex12 e12=new Reusing_Ex12();
 		System.out.println("");
 		e12.disposeE12();

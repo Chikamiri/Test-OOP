@@ -17,7 +17,7 @@ public class Reusing_Ex11 extends DetergentEx11 {
         detergentEx11.append(" DetergentEx11.dilute()");
     }
 
-    public static void main(String[] args) {
+    public void kn11() {
         CleanserEx11 Vim=new CleanserEx11();
         Vim.apply();
         Vim.dilute();

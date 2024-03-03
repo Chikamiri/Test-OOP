@@ -1,7 +1,7 @@
 package com.mycompany.app.Week2_Exercises.Reusing;
 
 public class Reusing_Ex20 {
-    public static void main(String[] args) {
+    public void kn20() {
         Cat car=new Cat();
         car.purr();
     }

@@ -19,7 +19,7 @@ public class Reusing_Ex6 extends BoardGame {
 		System.out.println("Chess constructor");
 	}
 	
-	public static void main(String[] args) {
+	public static void kn6 () {
         new Reusing_Ex6();
 	}
 }
