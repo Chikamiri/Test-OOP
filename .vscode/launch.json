@@ -2,6 +2,181 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Reusing_Ex24",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2_Exercises.Reusing.Reusing_Ex24",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Reusing_Ex23",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2_Exercises.Reusing.Reusing_Ex23",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Reusing_Ex20",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2_Exercises.Reusing.Reusing_Ex20",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Reusing_Ex19",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2_Exercises.Reusing.Reusing_Ex19",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Reusing_Ex18",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2_Exercises.Reusing.Reusing_Ex18",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Reusing_Ex17",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2_Exercises.Reusing.Reusing_Ex17",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Reusing_Ex16",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2_Exercises.Reusing.Reusing_Ex16",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Reusing_Ex15",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2_Exercises.Reusing.Reusing_Ex15",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Reusing_Ex14",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2_Exercises.Reusing.Reusing_Ex14",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Reusing_Ex13",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2_Exercises.Reusing.Reusing_Ex13",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Reusing_Ex12",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2_Exercises.Reusing.Reusing_Ex12",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Reusing_Ex11",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2_Exercises.Reusing.Reusing_Ex11",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Reusing_Ex10",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2_Exercises.Reusing.Reusing_Ex10",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Reusing_Ex9",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2_Exercises.Reusing.Reusing_Ex9",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Reusing_Ex8",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2_Exercises.Reusing.Reusing_Ex8",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Reusing_Ex7",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2_Exercises.Reusing.Reusing_Ex7",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Reusing_Ex6",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2_Exercises.Reusing.Reusing_Ex6",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Reusing_Ex5",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2_Exercises.Reusing.Reusing_Ex5",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Reusing_Ex4",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2_Exercises.Reusing.Reusing_Ex4",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Reusing_Ex3",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2_Exercises.Reusing.Reusing_Ex3",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "ReusingClasses_EX3",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2_Exercises.Reusing.ReusingClasses_EX3",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Reusing_Ex2",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2_Exercises.Reusing.Reusing_Ex2",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Sterilizer",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2_Exercises.Reusing.ReusingClasses_EX2.Sterilizer",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Detergent",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2_Exercises.Reusing.ReusingClasses_EX2.Detergent",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Reusing_Ex1",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2_Exercises.Reusing.Reusing_Ex1",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Initialized_Ex21",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2_Exercises.Initialized_Ex21",
