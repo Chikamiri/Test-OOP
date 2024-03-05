@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Poly_Ex2",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2_Exercises.Polymorphism.Poly_Ex2",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "ex1",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2_Exercises.Polymorphism.ex1",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Reusing_Ex24",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2_Exercises.Reusing.Reusing_Ex24",
