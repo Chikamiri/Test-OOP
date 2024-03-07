@@ -1,6 +1,5 @@
 package com.mycompany.app;
 import com.mycompany.app.Week2_Exercises.Reusing.*;
-
 public class App {
     public static void main(String[] args) { 
         Reusing_Ex23 temp = new Reusing_Ex23();

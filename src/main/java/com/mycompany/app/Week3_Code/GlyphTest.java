@@ -1,7 +1,7 @@
-package com.mycompany.app.Week3_Code1;
+package com.mycompany.app.Week3_Code;
 
 public class GlyphTest {
-    public static void main(String[] args) {
+    public void testGly() {//App.java
         new RoundGlyph(5);
     }
 }

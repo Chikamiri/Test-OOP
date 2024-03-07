@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Abstraction",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week3_Code.Abstraction",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Polymorphism",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week3_Code2.Polymorphism",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Transmogrify",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week3_Code1.Transmogrify",
