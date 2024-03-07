@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Transmogrify",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week3_Code1.Transmogrify",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "GlyphTest",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week3_Code1.GlyphTest",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "TestArithmetic",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week3_Code1.TestArithmetic",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "DisruptLecture",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week3_Code1.DisruptLecture",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Sandwich",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2_Exercises.Polymorphism.Sandwich",

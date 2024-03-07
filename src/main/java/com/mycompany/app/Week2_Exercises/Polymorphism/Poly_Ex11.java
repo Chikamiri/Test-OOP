@@ -2,15 +2,15 @@ package com.mycompany.app.Week2_Exercises.Polymorphism;
 
 // Order of constructor calls.
 @SuppressWarnings("unused")
-public class Sandwich {
+public class Poly_Ex11 {
     private Bread b = new Bread();
     private Cheese c = new Cheese();
     private Lettuce l = new Lettuce();
     private Pickle p = new Pickle();
-    public Sandwich(){System.out.println("Sandwich()");}
+    public Poly_Ex11(){System.out.println("Sandwich()");}
 
     public static void main(String[] args) {
-        new Sandwich();
+        new Poly_Ex11();
     }
 
     static class Meal {
