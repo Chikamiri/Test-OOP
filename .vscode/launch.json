@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Sandwich",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2_Exercises.Polymorphism.Sandwich",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Poly_Ex10",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2_Exercises.Polymorphism.Poly_Ex10",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Poly_Ex5",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2_Exercises.Polymorphism.Poly_Ex5",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Poly_Ex3",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2_Exercises.Polymorphism.Poly_Ex3",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Poly_Ex2",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2_Exercises.Polymorphism.Poly_Ex2",
