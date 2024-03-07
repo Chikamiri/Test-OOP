@@ -1,7 +1,7 @@
-package com.mycompany.app.Week3_Code1;
+package com.mycompany.app.Week3_Code;
 
 public class Transmogrify {
-    public static void main(String[] args) {
+    public void testTrans() {//Call these in App.java
         Stage s = new Stage();
         s.go();
         s.change();

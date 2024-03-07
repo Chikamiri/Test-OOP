@@ -1,7 +1,7 @@
-package com.mycompany.app.Week3_Code1;
+package com.mycompany.app.Week3_Code;
 
 public class TestArithmetic {
-    public static void main(String[] args) {
+    public void testAri() {
         Node n = new Plus(
                 new Plus(
                         new Const(1.1), new Const(2.2)),

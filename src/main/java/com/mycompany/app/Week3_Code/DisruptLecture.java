@@ -1,9 +1,12 @@
-package com.mycompany.app.Week3_Code1;
+package com.mycompany.app.Week3_Code;
 
 import java.util.*;
 
 public class DisruptLecture {
-    public static void main(String[] args) {
+    //App.java
+    //DisruptLecture temp2 = new DisruptLecture();
+    //temp2.testDisrupt();
+    public void testDisrupt() {
         Cellphone noiseMaker = new Cellphone();
         /*
          * Tune t1=new Tune();
