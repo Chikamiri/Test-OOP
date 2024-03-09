@@ -3,20 +3,23 @@ package com.mycompany.app.Week2_Exercises.Interfaces;
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 import java.util.Scanner;
-public static void main(String[] args) {
-    String sequence = "abc123";
-    CharSequenceIterator iterator = new CharSequenceIterator(sequence);
 
-    Scanner scanner = new Scanner(sequence);  // Or use the iterator with a loop
-}
-    while (iterator.hasNext()) {
-        System.out.println(iterator.next());
-    }
-
-    scanner.close();
-}
 public class InterfacesEx16 {
-    public class CharSequenceIterator implements Iterator<Character> {
+    public static void main(String[] args) {
+        String sequence = "abc123";
+        CharSequenceIterator iterator = new CharSequenceIterator(sequence);
+
+        Scanner scanner = new Scanner(sequence); // Or use the iterator with a loop
+
+        while (iterator.hasNext()) {
+            System.out.println(iterator.next());
+        }
+
+        scanner.close();
+    }
+}
+
+class CharSequenceIterator implements Iterator<Character> {
 
     private final String sequence;
     private int index = 0;
@@ -38,10 +41,4 @@ public class InterfacesEx16 {
             throw new NoSuchElementException();
         }
     }
-}
-
-
-   
-}
-    
 }

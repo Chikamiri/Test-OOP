@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "InterfacesEx11",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2_Exercises.Interfaces.InterfacesEx11",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "InterfacesEx16",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2_Exercises.Interfaces.InterfacesEx16",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "InterfacesEx15",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2_Exercises.Interfaces.InterfacesEx15",
