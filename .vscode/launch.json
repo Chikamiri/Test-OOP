@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.test",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Poly_Ex6_7_8",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2_Exercises.Polymorphism.Poly_Ex6_7_8",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "AbastractClass",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week3_Exercises.AbastractClass",
