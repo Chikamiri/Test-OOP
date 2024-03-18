@@ -28,6 +28,11 @@
 - UML for Final Exam
 - Middle Exam
 
+### Week 5
+- Class's codes `Ongoing...`
+- [Final Exam](https://github.com/Chikamiri/temp)
+
+
 
 # Try Out Development Containers: Java
 
