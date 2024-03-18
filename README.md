@@ -1,12 +1,33 @@
-# Nhom 20
+# Group 20
 ## Member
-1. Pham Xuan Bach
-2. Nguyen Duy Khanh
+1. Pham Xuan Bach - 2301 0118
+- `https://github.com/Chikamiri`
+2. Nguyen Duy Khanh - 2301 0335
+- `https://github.com/NguyenDuyKhanh05`
+
 
 ## Task
-### Week 1
+### Week 1 - **Done**
+- Class's codes
+- Exercises
 
-### Week 2
+### Week 2 - **Done**
+- Class's codes
+- Exercises
+   + Access Control
+   + Initialization and Cleanup
+   + Reusing Classes
+   + Polymorphism
+   + Interfaces
+
+### Week 3 - **Done**
+- Class's codes
+- Expand Ex17, Polymorphism
+
+### Week 4 - **Done**
+- UML for Final Exam
+- Middle Exam
+
 
 # Try Out Development Containers: Java
 
