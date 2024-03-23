@@ -29,7 +29,7 @@
 - Middle Exam
 
 ### Week 5
-- Class's codes `Ongoing...`
+- Class's codes (https://github.com/NguyenDuyKhanh05/KhanhProject)
 - [Final Exam](https://github.com/Chikamiri/temp)
 
 
